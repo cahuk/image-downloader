@@ -1,5 +1,5 @@
 {
-    "name": "cahuk/imageDownloader",
+    "name": "cahuk/image-downloader",
     "type": "library",
     "description": "Set site url for parse and download images",
     "keywords": ["parse image","image parser","download image"],

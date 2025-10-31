@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "cahuk/checking": "dev-master",
+        "cahuk/checking": "^1.0",
         "duncan3dc/domparser": "^1.4"
     },
     "autoload": {
